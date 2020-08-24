@@ -32,7 +32,6 @@
       <b-link>Northern Sotho</b-link>
     </div>
     <BottomBar/>
-    <BottomBar/>
   </div>
 </template>
 
