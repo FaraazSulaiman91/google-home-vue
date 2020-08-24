@@ -1,4 +1,5 @@
 # google-ui-clone
+A recreation of the Google Home page using VueJS and BootstrapVue.
 
 ## Project setup
 ```
